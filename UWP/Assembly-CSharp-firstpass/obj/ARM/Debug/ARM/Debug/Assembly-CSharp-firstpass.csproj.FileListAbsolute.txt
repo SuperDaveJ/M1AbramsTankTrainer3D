@@ -1,0 +1,16 @@
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.dll
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.pdb
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.pri
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.dll
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.pdb
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\priconfig.xml
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\priconfig.xml.intermediate
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\layout.resfiles
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\layout.resfiles.intermediate
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\resources.resfiles
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\resources.resfiles.intermediate
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\pri.resfiles
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\pri.resfiles.intermediate
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\qualifiers.txt
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\qualifiers.txt.intermediate
+H:\Price Creative Group\projects\C2-Scott\hololens\hololens_test_3\Unity_project_v4\App5\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
